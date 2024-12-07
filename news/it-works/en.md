@@ -7,4 +7,4 @@ category: pages
 author: papertek
 ---
 
-(Put your article data here)
+Holy gyatt. It's working.
