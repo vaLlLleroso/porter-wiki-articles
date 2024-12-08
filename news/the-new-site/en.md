@@ -2,7 +2,7 @@
 layout: post
 type: news
 title: We stole everything
-date: 2024-12-8 06:00 -0500
+date: 2024-12-07 08:51 -0600
 category: pages
 author: papertek
 description: stole absolutely everything
