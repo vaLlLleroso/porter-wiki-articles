@@ -20,7 +20,7 @@ This Wiki aims to document as much as we can when it comes to Porter and communi
 
 ### Why not use MediaWiki, Fandom, or anything similar?
 
-At first, the site used to be a school project. I was approached one day by someone saying, "There should be an official Porter Robinson Wiki," and I thought, dang, that's a cool idea! I quickly converted the school project site into the Porter Robinson Wiki.
+At first, the site used to be a school project. I was approached one day by someone saying, "There should be an official Wiki," and I thought, dang, that's a cool idea! I quickly converted the school project site into a Wiki.
 
 At this point, I didn't want to consider other options because I wanted to keep things original. There's also the whole Fandom controversy, so I tried to avoid Fandom altogether. There's a video about it [here](https://youtu.be/qcfuA_UAz3I) in case you're interested.
 
@@ -44,7 +44,7 @@ The wiki has been through a lot these past months and is still being worked on f
 
 The Theaceae Collective! You can view the organization [here](https://github.com/theaceaecollective).
 
-I, papertek, am the lead of this project. Am I good at it? Not sure! But things have been smooth so far... Our group of contributors has done a great job keeping this project in a good state, including providing a custom domain! (thanks, Matt).
+I, papertek, am the lead of this project. Our group of contributors has done a great job keeping this project in a good state, including providing a custom domain! (thanks, Matt).
 
 ### What's the point?
 
