@@ -9,19 +9,19 @@ description: stole absolutely everything
 image: /coolnerd.png
 ---
 
-## You stole everything?
+## "You stole everything?"
 
 Absolutely everything. The codebase, the designs (redesign pending), the money, everything.
 
-## Why did you steal everything?
+## "Why did you steal everything?"
 
 Because it was funny. I was also feeling quite selfish.
 
-## Are you giving it back?
+## "Are you giving it back?"
 
 No.
 
-## That's cool. I love Porter Robinson and this website. Thank you for stealing everything
+## "That's cool. I love Porter Robinson and this website. Thank you for stealing everything"
 
 You're Welcome.
 
