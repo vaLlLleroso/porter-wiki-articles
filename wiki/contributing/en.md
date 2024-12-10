@@ -34,7 +34,8 @@ description: Read this to figure out how to contribute. Includes directions and 
 ![your article](/your-article.png)
 
 3. create your files in your article folder. by default, the site is in english. so stick with naming your markdown file `en.md`
- - if you wish to include media, you must provide a `.media` file in your article folder
+
+- if you wish to include media, you must provide a `.media` file in your article folder
 ![example article folder](/path-content.png)
 
 thats all! make sure to reference previous articles before creating your own.
